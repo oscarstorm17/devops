@@ -1,2 +1,3 @@
 DevOps Practice. 
 Changes should be repeatable and version controlled.
+Review changes before commiting them.
